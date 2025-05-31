@@ -30,3 +30,8 @@ h1,
 .output {
   margin: 20px auto;
 }
+
+label,
+legend {
+  font-weight: bold;
+}
