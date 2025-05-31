@@ -15,3 +15,7 @@ body {
   background-color: var(--fcc-blue);
   color: var(--light-grey);
 }
+
+h1 {
+  text-align: center;
+}
