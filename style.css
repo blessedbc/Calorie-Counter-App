@@ -35,3 +35,8 @@ label,
 legend {
   font-weight: bold;
 }
+
+.input-container {
+  display: flex;
+  flex-direction: column;
+}
