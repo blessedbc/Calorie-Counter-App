@@ -40,3 +40,10 @@ legend {
   display: flex;
   flex-direction: column;
 }
+
+button {
+  cursor: pointer;
+  text-decoration: none;
+  background-color: var(--light-yellow);
+  border: 2px solid var(--dark-yellow);
+}
