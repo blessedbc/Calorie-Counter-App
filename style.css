@@ -68,3 +68,7 @@ select {
   padding: 10px;
   text-align: center;
 }
+
+.hide {
+  display: none;
+}
